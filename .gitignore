@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+amazon_reviews_us_Watches_v1_00.tsv.gz
 __pycache__/
 *.py[cod]
 *$py.class
